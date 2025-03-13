@@ -1,0 +1,10 @@
+home.html
+<html>
+<head>
+<title> home </title>
+<body bgcolor="pick">
+<p> Welcome to my dashboard website! </p>
+
+
+</body>
+</html>
